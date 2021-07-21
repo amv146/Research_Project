@@ -1,2 +1,0 @@
-model_checkpoint_path: "forward_network4.pth"
-all_model_checkpoint_paths: "forward_network4.pth"
